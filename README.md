@@ -14,6 +14,6 @@ Bu sənədin məntiqi olaraq hissələrə bölünməyini və daha dəqiq tərcü
 
 `output_directory` veriləninə isə tərcümə olunmuş sənədlərin yerləşdiriləcəyi qoyluğun tam ünvanını dəyər olaraq təyin etmək lazımdır
 
-source_language = 'az'
+`source_language = 'az'` sənədlərin hansı dildə olduğunu bildirir
 
-destination_language = 'en'
+`destination_language = 'en'` sənədləri hansı dilə tərcümə etmək lazım olduğunu bildirir
