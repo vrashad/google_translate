@@ -10,6 +10,12 @@ Hər sətir növbəti sətrə keçid simqolu ilə bitməldir `\n`
 
 Bu sənədin məntiqi olaraq hissələrə bölünməyini və daha dəqiq tərcümə edilməyini təmin edir
 
+Tərcüməyə başlamamızdan qabaq lazım olan paketi yükləməliyik
+
+```
+pip install googletrans==4.0.0-rc1  
+```
+
 `input_directory` veriləninə, tərcümə edilməli olan sənədlərin yerləşdiyi qoyluğun tam ünvanını dəyər olaraq təyin etmək lazımdır
 
 `output_directory` veriləninə isə tərcümə olunmuş sənədlərin yerləşdiriləcəyi qoyluğun tam ünvanını dəyər olaraq təyin etmək lazımdır
